@@ -1,0 +1,7 @@
+C:\Temp6\Inventory\Inventory.Tests\obj\Debug\Inventory.Tests.csprojResolveAssemblyReference.cache
+C:\Temp6\Inventory\Inventory.Tests\bin\Debug\Inventory.Tests.dll
+C:\Temp6\Inventory\Inventory.Tests\bin\Debug\Inventory.Tests.pdb
+C:\Temp6\Inventory\Inventory.Tests\bin\Debug\Inventory.Api.dll
+C:\Temp6\Inventory\Inventory.Tests\bin\Debug\Inventory.Api.pdb
+C:\Temp6\Inventory\Inventory.Tests\obj\Debug\Inventory.Tests.dll
+C:\Temp6\Inventory\Inventory.Tests\obj\Debug\Inventory.Tests.pdb

@@ -1,0 +1,5 @@
+C:\Temp6\Inventory\Inventory.Api\bin\Debug\Inventory.Api.dll
+C:\Temp6\Inventory\Inventory.Api\bin\Debug\Inventory.Api.pdb
+C:\Temp6\Inventory\Inventory.Api\obj\Debug\Inventory.Api.csprojResolveAssemblyReference.cache
+C:\Temp6\Inventory\Inventory.Api\obj\Debug\Inventory.Api.dll
+C:\Temp6\Inventory\Inventory.Api\obj\Debug\Inventory.Api.pdb
