@@ -45,7 +45,7 @@ namespace Inventory.Api
         }
 
 
-        public IEnumerable<IInventoryItem> GetAll()
+        public IEnumerable<IInventoryItem> List()
         {
             return _data.Values;
         }

@@ -6,6 +6,6 @@ namespace Inventory.Api
     {
         IInventoryItem Add(IInventoryItem item);
         IInventoryItem Remove(string label);
-        IEnumerable<IInventoryItem> GetAll();
+        IEnumerable<IInventoryItem> List();
     }
 }
